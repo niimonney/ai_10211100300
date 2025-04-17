@@ -16,3 +16,6 @@ requests  # For fetching dataset URLs
 langchain_google_genai  # For Gemini-Pro integration
 tf-keras
 google-generativeai
+tensorflow==2.12.0  # Known stable version
+keras==2.12.0       # Match TensorFlow version
+numpy==1.23.5       # Compatible with TF 2.12
