@@ -1,6 +1,9 @@
-# ai_10211100300
-Name: Nathaniel Monney
-Index Number: 10211100300
-Description: Streamlit-based AI application for regression, clustering, neural networks, and LLM tasks.
+# AI Model Playground
 
+**Name**: Nathaniel Monney
+**Index Number**: 10211100300
 
+## Setup
+1. Clone the repository.
+2. Install dependencies: `pip install -r requirements.txt`.
+3. Run: `streamlit run main.py`.
