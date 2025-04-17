@@ -1,19 +1,18 @@
-streamlit # For the web interface
-scikit-learn # For regression and clustering
-tensorflow # For neural networks
-pandas # For data handling
-numpy # For numerical operations
-matplotlib # For visualizations
-plotly # For interactive visualizations
-#transformers # For embeddings
-PyPDF2 # For potential PDF datasets (not used here)
-langchain # For LLM integration
+streamlit  # For the web interface
+scikit-learn  # For regression and clustering
+tensorflow  # For neural networks
+pandas  # For data handling
+numpy  # For numerical operations
+matplotlib  # For visualizations
+plotly  # For interactive visualizations
+transformers  # For embeddings
+PyPDF2  # For potential PDF datasets (not used here)
+langchain  # For LLM integration
 
 # Additional dependencies
-
-#sentence-transformers # For text embeddings
-faiss-cpu # For vector storage
-requests # For fetching dataset URLs
-langchain_google_genai # For Gemini-Pro integration
-sentence-transformers>=2.2.2
-transformers>=4.36.0
+sentence-transformers  # For text embeddings
+faiss-cpu  # For vector storage
+requests  # For fetching dataset URLs
+langchain_google_genai  # For Gemini-Pro integration
+tf-keras
+google-generativeai
